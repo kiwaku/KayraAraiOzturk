@@ -66,8 +66,8 @@ class Slider {
     //BackGround Images that merge
     this.images = [
     'https://s3-us-west-2.amazonaws.com/s.cdpn.io/58281/bg1.jpg',
-    'https://awswebbucket1926.s3.ap-northeast-1.amazonaws.com/bg2.png',
-    'https://awswebbucket1926.s3.ap-northeast-1.amazonaws.com/bg3.png',
+    'https://s3-us-west-2.amazonaws.com/s.cdpn.io/58281/bg2.jpg',
+    'https://s3-us-west-2.amazonaws.com/s.cdpn.io/58281/bg3.jpg',
   ];
 
 
