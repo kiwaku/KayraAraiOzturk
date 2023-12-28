@@ -67,7 +67,7 @@ class Slider {
     this.images = [
     'https://s3-us-west-2.amazonaws.com/s.cdpn.io/58281/bg1.jpg',
     'https://s3-us-west-2.amazonaws.com/s.cdpn.io/58281/bg2.jpg',
-    'https://s3-us-west-2.amazonaws.com/s.cdpn.io/58281/bg3.jpg',
+    'https://github.com/kiwaku/KayraAraiOzturk/blob/gh-pages/assets/bg2.png?raw=true',
   ];
 
 
